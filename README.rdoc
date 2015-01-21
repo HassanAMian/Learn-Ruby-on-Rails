@@ -1,28 +1,7 @@
-== README
+== Learning Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my version of the learning rails tutorial by Daniel Kehoe.  Any changes made are in design, but I will be following the basic tutorial for the programming.  Any changes made will be reflected in the comments.
 
-Things you may want to cover:
+This application was made using ruby 2.1.5 and rails 4.2.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+*** I will add gems used after the tutorail is complete so I can accomodate for any changes that I decide to make. ***  
