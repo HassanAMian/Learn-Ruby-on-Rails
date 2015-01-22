@@ -2,6 +2,6 @@
 
 This is my version of the learning rails tutorial by Daniel Kehoe.  Any changes made are in design, but I will be following the basic tutorial for the programming.  Any changes made will be reflected in the comments.
 
-This application was made using ruby 2.1.5 and rails 4.2.
+This application was made using ruby 2.2.0 and rails 4.2.0
 
 *** I will add gems used after the tutorail is complete so I can accomodate for any changes that I decide to make. ***  
